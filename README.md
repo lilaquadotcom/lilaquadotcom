@@ -6,10 +6,10 @@ Senior Software Engineer (he/him)
 
 ## About this account
 
-This GitHub account is dedicated **solely** to projects that
-require GitHub for technical or project-related reasons;
-if it's either a technical necessity or the
-primary platform for collaboration.
+
+This GitHub account is **exclusively** for projects that
+require GitHub, either due to technical needs or
+because it is the primary platform for collaboration.
 
 For my main public repositories, please visit my [GitLab profile][main_git_account].
 
